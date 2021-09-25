@@ -1,4 +1,4 @@
-# Simplest Launcher
+# Type Less!
 A tiny Python script that allows you to run anything by a click a on a button that you would otherwise run from a command line.
 Just one file, containing code and config. You could add the script as a launcher on a panel on your Linux Desktop.
 Edit the script and fill in your config to the array called **elements** in the beginning of the code.
