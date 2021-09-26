@@ -1,9 +1,8 @@
 # Type Less!
 
-There are hundreds of tools like this for Linux desktops, but none was the way I wanted it. So I came up with this tiny Python script that allows you to run anything by a click a on a button that you would otherwise run from a command line.
+There are hundreds of tools like this for Linux desktops, but none is the way I wanted it. So I invented this tiny Python script that allows you to run anything by a click a on a button that you would otherwise run from a command line.
 
-Just one file, containing code and config. You could add the script as a launcher on a panel of your Linux desktop.
-Edit the script and fill in your config to the array called **elements** in the beginning of the code.
+Just one file called **type-less.py**, containing code and config. Edit the script and replace the example data in the array called **elements** with your own configuration. You could add the script as a launcher on a panel of your Linux desktop.
 
 The fields of the array have the following meaning:
 1. Window row for the button to appear on
